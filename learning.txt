@@ -1,2 +1,3 @@
-What I have learnt from this course
-How to use git commands such as:git commit,git clone,git pull,git push,git add
+What I have learned from this course: 
+How to use git commands such as:git commit,git clone,git pull,git push,git add. 
+I have learned about workflows and collaboration also about forks and clones. 
