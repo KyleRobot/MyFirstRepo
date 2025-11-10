@@ -1,0 +1,6 @@
+I have learnt to use git commands such as: 
+-git commit 
+-git clone
+-git pull
+-git push
+-git add
