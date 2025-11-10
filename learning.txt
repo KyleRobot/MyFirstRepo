@@ -1,6 +1,2 @@
-What I have learnt from this course is how to use git commands such as: 
--git commit 
--git clone
--git pull
--git push
--git add
+What I have learnt from this course
+How to use git commands such as:git commit,git clone,git pull,git push,git add
