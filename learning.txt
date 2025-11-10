@@ -1,4 +1,4 @@
-I have learnt to use git commands such as: 
+What I have learnt from this course is how to use git commands such as: 
 -git commit 
 -git clone
 -git pull
